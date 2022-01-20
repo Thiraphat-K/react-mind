@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-mind/static/css/main.df622901.css",
+    "main.js": "/react-mind/static/js/main.4ed7ee9b.js",
+    "static/js/787.c290f204.chunk.js": "/react-mind/static/js/787.c290f204.chunk.js",
+    "static/media/logo.png": "/react-mind/static/media/logo.4a00a7c67136038a0eec.png",
+    "index.html": "/react-mind/index.html",
+    "main.df622901.css.map": "/react-mind/static/css/main.df622901.css.map",
+    "main.4ed7ee9b.js.map": "/react-mind/static/js/main.4ed7ee9b.js.map",
+    "787.c290f204.chunk.js.map": "/react-mind/static/js/787.c290f204.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df622901.css",
+    "static/js/main.4ed7ee9b.js"
+  ]
+}
